@@ -5,14 +5,18 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Pesquisadores
 Líder de pesquisa: **Nome completo**
+
 Pesquisador: **Nome completo**
+
 Pesquisador: **Nome completo**
 
 Texto do overleaf compartilhado com _lamfo@unb.br_
 
 Data de início da pesquisa: DD/MM/20YY
 
-## Marcos do Projeto
+Dia da semana e hora das reuniões Hangout: Quinta 19h
+
+## Marcos do Projeto (Previsões)
 
 Fim da revisão da literatura: DD/MM/20YY
 
