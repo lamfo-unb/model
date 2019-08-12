@@ -16,7 +16,7 @@ Data de início da pesquisa: DD/MM/20YY
 
 Dia da semana e hora das reuniões Hangout: Quintas, 19h
 
-## Marcos do Projeto (Previsões)
+## Marcos da pesquisa (Previsões)
 
 Fim da revisão da literatura: DD/MM/20YY
 
