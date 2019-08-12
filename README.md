@@ -14,7 +14,7 @@ Texto do overleaf compartilhado com _lamfo@unb.br_
 
 Data de início da pesquisa: DD/MM/20YY
 
-Dia da semana e hora das reuniões Hangout: Quinta 19h
+Dia da semana e hora das reuniões Hangout: Quintas, 19h
 
 ## Marcos do Projeto (Previsões)
 
